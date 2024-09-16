@@ -6,7 +6,7 @@
 # to travel a certain distance.
 # Data In: Distance Traveled (in miles), Price per gallon, Miles per gallon
 # Data Out:  Cost of trip
-# Credits: Float codes from Zybooks assignment 1.
+# Credits: Float codes from Zy-books assignment 1.
 
 
 #Prompt user to enter Miles, Miles per Gallon, and Price per gallon
